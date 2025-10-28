@@ -8,6 +8,7 @@ ziko-code ( code component )
 ssr 
 taylor series 
 rename to mips 101 ?     
+eq 
 blog     
  --> 
 ## This repository contains C code examples along with their MIPS Assembly equivalents.           
