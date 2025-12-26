@@ -6,7 +6,7 @@ zikojs ( components )
 mdzjs ( articles )
 ziko-code ( code component )
 ssr 
-taylor series 
+taylor series  
 rename to mips 101 ?     
 eq 
 blog       
