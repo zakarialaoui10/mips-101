@@ -9,7 +9,7 @@ ssr
 taylor series  
 rename to mips 101 ?     
 eq    
-blog        
+blog         
 vitepress ? 
  --> 
 ## This repository contains C code examples along with their MIPS Assembly equivalents.           
