@@ -10,7 +10,7 @@ taylor series
 rename to mips 101 ?     
 eq     
 blog         
-vitepress ?  
+vitepress ?   
  --> 
 ## This repository contains C code examples along with their MIPS Assembly equivalents.           
       
